@@ -28,7 +28,7 @@
                 For å lage ett repository trykker du på "New" øverst i venstre hjørne 
             <br>
             <br>
-                <img src=https://i.imgur.com/0eZWeEd.png alt="Repository" width="500">
+                <img src="https://i.imgur.com/0eZWeEd.png" alt="0eZWeEd" height="318" width="697">
                <br/>
             <br> <!-- Angir samme bredde for alle bildene for at det skal se mest mulig ryddig ut  -->
             <br>
