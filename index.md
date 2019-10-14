@@ -29,6 +29,7 @@
             <br>
             <br>
                 <img src=https://i.imgur.com/0eZWeEd.png alt="Repository" width="500">
+               <br/>
             <br> <!-- Angir samme bredde for alle bildene for at det skal se mest mulig ryddig ut  -->
             <br>
             Deretter gir du det et navn og velger velger om den skal være privat etter offentlig
