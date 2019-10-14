@@ -58,7 +58,7 @@
             <p>Gå inn på repository og trykk på "settings"
             <br>
             <br>
-                <img src="https://i.imgur.com/XONkZiF.png" alt= XONkZiF width="500">
+                <img src="https://i.imgur.com/XONkZiF.png" alt="XONkZiF" width="500">
             <br>
             <br>
             Endre navnet på repositoriet ditt til "brukernavn.github.io" hvor du bytter ut "brukernavn" med ditt eget brukernavnet
@@ -68,7 +68,7 @@
             Da skal det se slik ut:
             <br>
             <br>
-                <img src="https://i.imgur.com/BChkM9B.png" alt= BChkM9B width="500">
+                <img src="https://i.imgur.com/BChkM9B.png" alt="BChkM9B" width="500">
             <br>
             <br>
             Gratulerer du har nå publisert din første side på Git-Hub! Du kan åpne den ved å trykke på linken under Github pages.
