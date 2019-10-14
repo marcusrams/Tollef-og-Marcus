@@ -35,7 +35,7 @@
             <br>
             <br>
                 <img src="https://i.imgur.com/1oKti96.png" alt ="repository2" width="500">
-            
+                <br/>
 </p>
         <li>
             <h3>3. Laste opp koden din</h3>
