@@ -51,7 +51,7 @@
             <br>
             <br> 
             
-<img src="https://i.imgur.com/vdgwR25.png" alt= vdgwR25 width="500">
+<img src="https://i.imgur.com/vdgwR25.png" alt="0eZWeEd" height="312" width="757"
 </p>       
         <li>
             <h3>4. Laste opp nettsiden på Git-Hub</h3>
