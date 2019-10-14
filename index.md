@@ -49,9 +49,9 @@
             <br>
             Kopier koden din og lim den inn i index.md, deretter blar du ned og trykker på "commit new file"
             <br>
-            <br> 
-            
-<img src="https://i.imgur.com/vdgwR25.png" alt="vdgwR25" height="312" width="700"
+            <br>
+                
+   <img src="https://i.imgur.com/vdgwR25.png" alt="vdgwR25" width="700">
 </p>       
         <li>
             <h3>4. Laste opp nettsiden på Git-Hub</h3>
