@@ -28,13 +28,13 @@
                 For å lage ett repository trykker du på "New" øverst i venstre hjørne 
             <br>
             <br>
-            <img src=https://i.imgur.com/0eZWeEd.png alt="Repository" width="500">
+                <img src=https://i.imgur.com/0eZWeEd.png alt="Repository" width="500">
             <br> <!-- Angir samme bredde for alle bildene for at det skal se mest mulig ryddig ut  -->
             <br>
             Deretter gir du det et navn og velger velger om den skal være privat etter offentlig
             <br>
             <br>
-            <img src="https://i.imgur.com/1oKti96.png" alt ="repository2" width="500">
+                <img src="https://i.imgur.com/1oKti96.png" alt ="repository2" width="500">
             
 </p>
         <li>
@@ -42,7 +42,7 @@
             <p>Trykk på "create new file" og kall den "index.md"
             <br>
             <br>
-            <img src="https://i.imgur.com/HR4a1KZ.png" alt ="Ny fil" width="500"> <!-- Gir bildene ett navn i tilfelle bildene ikke kan vises 9oi-->
+                <img src="https://i.imgur.com/HR4a1KZ.png" alt ="Ny fil" width="500"> <!-- Gir bildene ett navn i tilfelle bildene ikke kan vises 9oi-->
             
             <br>
             <br>
@@ -56,7 +56,7 @@
             <p>Gå inn på repository og trykk på "settings"
             <br>
             <br>
-            <img src="https://i.imgur.com/XONkZiF.png" alt= settings width="500">
+                <img src="https://i.imgur.com/XONkZiF.png" alt= settings width="500">
             <br>
             <br>
             Endre navnet på repositoriet ditt til "brukernavn.github.io" hvor du bytter ut "brukernavn" med ditt eget brukernavnet
@@ -66,7 +66,7 @@
             Da skal det se slik ut:
             <br>
             <br>
-            <img src="https://i.imgur.com/BChkM9B.png" alt= git-hub-pages width="500">
+                <img src="https://i.imgur.com/BChkM9B.png" alt= git-hub-pages width="500">
             <br>
             <br>
             Gratulerer du har nå publisert din første side på Git-Hub! Du kan åpne den ved å trykke på linken under Github pages.
