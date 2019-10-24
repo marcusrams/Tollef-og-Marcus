@@ -12,11 +12,11 @@
     <br>
     <br>
     <br>
-    <center><h2>Oppgaver InformasjonsTeknologi</h2>
-    <strong>Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/Github Tutorial.html">her</a> for oppgave 392 -Service Desk
-    
-    
- <h4> Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/GithubTutorial.html">her</a> for oppgave *****</h4>
+    <br>
+    <br>
+<h2>Oppgaver InformasjonsTeknologi</h2>
+    <p style="text-align:center/left;"> <strong>Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/Github Tutorial.html">her</a> for oppgave 392 -Service Desk </p> </strong> 
+    <p style="text-align:left;"> </p><strong>Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/GithubTutorial.html">her</a> for oppgave *****</p> </strong> 
 
     
 </body>
