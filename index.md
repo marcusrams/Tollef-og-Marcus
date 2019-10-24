@@ -12,8 +12,6 @@
     <br>
     <br>
     <br>
-    <br>
-    <br>
     <center><h2>Oppgaver InformasjonsTeknologi</h2>
     <strong>Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/Github Tutorial.html">her</a> for oppgave 392 -Service Desk
     
