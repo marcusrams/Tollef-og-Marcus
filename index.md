@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+     <title>Document</title>
 
 <h1><center>IT Prosjekter</center></h1>
 </head>
@@ -19,8 +19,8 @@
     
     
     
-    <h4>    Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/GithubTutorial.html">her</a> for oppgave *****
-
     
+<h4>    Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/GithubTutorial.html">her</a> for oppgave *****
+
 </body>
 </html>
