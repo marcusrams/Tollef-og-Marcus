@@ -18,8 +18,7 @@
     <strong>Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/Github Tutorial.html">her</a> for oppgave 392 -Service Desk
     
     
-    
-   <h4>    Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/GithubTutorial.html">her</a> for oppgave *****
+ <h4> Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/GithubTutorial.html">her</a> for oppgave *****</h4>
 
     
 </body>
