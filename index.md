@@ -9,8 +9,8 @@
     </head>
 <center>
 <body>
-    <p style="text-align:center;"> Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/Github Tutorial.html">her</a> for oppgave 392 -Service Desk</p> 
-    <p style="text-align:center;"> </p>Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/GithubTutorial.html">her</a> for oppgave *****</p> 
+    <p>Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/Github Tutorial.html">her</a> for oppgave 392 -Service Desk</p> 
+    <p>Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/GithubTutorial.html">her</a> for oppgave *****</p> 
 <br>
 <br>
 <br>
@@ -27,4 +27,4 @@
     
   
   </body>
-         </html>
+</html>
