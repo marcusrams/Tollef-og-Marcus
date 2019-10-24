@@ -9,10 +9,11 @@
 <center>
 <body>
     <p>Trykk <a href="https://marcusrams.github.io/Tollef-og-Marcus/392/Github Tutorial.html" target="_blank"> her</a> for oppgave 392 -Service Desk</p> 
-    <p>Trykk <a href="https://marcusrams.github.io/Tollef-og-Marcus/341/MarcusFørsteWebsite.html" target="_blank"> her</a> for oppgave 341 -Marcus Website</p> 
+    <p>Trykk <a href="https://marcusrams.github.io/Tollef-og-Marcus/341/MarcusFørsteWebsite.html" target="_blank"> her</a> for oppgave 341 -Marcus Website</p>
+    <p>Trykk <a href="https://marcusrams.github.io/Tollef-og-Marcus/341-Tollef/TollefF%C3%B8rsteWebsite.html" target="_blank"> her</a> for oppgave 341 -Tollef Website</p> 
 <br>
 <br>
-<br>
+<br> 
 <br>
 <br>
 <br>
