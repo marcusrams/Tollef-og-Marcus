@@ -5,19 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-
+<h2>Oppgaver InformasjonsTeknologi</h2>
 </head>
 <center>
 <body>
     <br>
-<h2>Oppgaver InformasjonsTeknologi</h2>
-    <p style="text-align:left;"> Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/Github Tutorial.html">her</a> for oppgave 392 -Service Desk </p>
-    <p style="text-align:left;"> Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/Github Tutorial.html">her</a> for oppgave **** </p> 
+    <p style="text-align:center;"> <strong>Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/Github Tutorial.html">her</a> for oppgave 392 -Service Desk</p> </strong> 
+    <p style="text-align:center;"> </p><strong>Trykk <a href="https://marcusrams.github.io/tollef-og-marcus/392/GithubTutorial.html">her</a> for oppgave *****</p> </strong> 
 <br>
 <br>
 <br>
 <br>
 
     
-</body>
-</html>
+</body> </html>
