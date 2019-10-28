@@ -91,10 +91,11 @@ Your browser does not support the video tag.
     
     <br>
 <br>
-<audio controls autoplay volume="0.05">
+<audio controls autoplay>
   <source src="audio.ogg" type="audio/ogg">
   <source src="audio.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
+Your browser does not support the audio element
+    document.getElementById("audio").volume = 0.2;
 </audio>
 </div>
 <br><br><br>
