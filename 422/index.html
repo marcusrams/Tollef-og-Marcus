@@ -84,11 +84,8 @@
   <source src="internet_works.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video>
-    <script>
-    document.getElementById('audio').play();
-</script>
 
-    
+
     
     <br>
 <br>
@@ -98,9 +95,10 @@ Your browser does not support the video tag.
 Your browser does not support the audio element
    
 </audio>
-     <script>
-    var x = document.getElementById("audio").volume = 0.2;
-    </script>
+  <script>
+  var audio = document.getElementById("audio");
+  audio.volume = 0.2;
+</script>
 </div>
 <br><br><br>
     </p>
